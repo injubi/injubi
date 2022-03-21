@@ -9,7 +9,11 @@
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/> 
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/> <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubi-in&show_icons=true&theme=radical)
+
+
 
 <!--
 **Jubi-In/Jubi-In** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
